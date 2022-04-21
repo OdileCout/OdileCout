@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @OdileCout
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in  le dévelopement web
+- 🌱 I’m currently learning le symfony
+- 💞️ I’m looking to collaborate on  des projets PHP
+- 📫 How to reach me  à un team
+
 
 <!---
 OdileCout/OdileCout is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
