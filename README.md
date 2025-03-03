@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @OdileCout
 - 👀 I’m interested in  the dévelopement web
-- 🌱 I’m currently learning the symfony
-- 💞️ I’m looking to collaborate on the projets PHP
-- 📫 How to reach me  à un team
+- 🌱 I’m currently learning the C, C++
+- student at 42 school
